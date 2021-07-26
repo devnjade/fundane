@@ -20,7 +20,7 @@ export default function Home() {
             <StatusBar style="dark" />
             <SafeAreaView style={ styles.safeView }>
                 <View style={ styles.headBar }>
-                    <Text style={[styles.headBar, { color: colors.black }]}>Fundane.</Text>
+                    <Text style={[styles.headTxt, { color: colors.black }]}>Fundane.</Text>
                     <View style={ styles.flex }>
                         <TouchableOpacity style={{ marginRight: 24 }}>
                             <Feather name="search" size={28}/>
