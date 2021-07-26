@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "fundane",
+    "name": "Fundane",
     "slug": "fundane",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "UI Implementation",
+    "githubUrl": "https://github.com/devnjade/fundane"
   }
 }

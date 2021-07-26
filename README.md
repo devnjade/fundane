@@ -10,3 +10,5 @@ yarn
 
 yarn start
 ```
+
+[Test App](https://expo.dev/@adecancode/fundane)
